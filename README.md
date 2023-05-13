@@ -1,5 +1,5 @@
 # 💫 About Me:
-	Software Developer <br>	Actualmente trabajo como Full Stack Developer  <br>	Me gusta el Mundo de la programación <br>	Ne gusta Trabajar en equipo <br>
+	Software Developer <br>	Actualmente trabajo como Full Stack Developer  <br>	Me gusta el Mundo de la programación <br>	Me gusta Trabajar en equipo <br>
 
 
 ## 🌐 Socials:
